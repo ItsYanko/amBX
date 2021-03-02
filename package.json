@@ -1,0 +1,24 @@
+{
+  "name": "ambx-com",
+  "version": "0.1.0",
+  "description": "Docs, specs, software and other utilities for obsolete amBX gaming lights",
+  "main": "server.js",
+  "scripts": {
+    "test": "\u001b[3~"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsYanko/amBX.git"
+  },
+  "keywords": [
+    "ambx",
+    "lights",
+    "docs"
+  ],
+  "author": "yanko",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ItsYanko/amBX/issues"
+  },
+  "homepage": "https://github.com/ItsYanko/amBX#readme"
+}
