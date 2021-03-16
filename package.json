@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ItsYanko/amBX/issues"
   },
-  "homepage": "https://github.com/ItsYanko/amBX#readme"
+  "homepage": "https://github.com/ItsYanko/amBX#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
